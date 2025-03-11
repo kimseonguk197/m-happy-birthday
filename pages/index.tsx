@@ -12,7 +12,7 @@ export default function Home() {
     <div className='w-screen flex justify-center items-center'>
       <Party />
       <div className='fixed top-11 text-white flex justify-center items-center flex-col'>
-        <Card name='예지!!' />
+        <Card name='다이스키 준혁, 재슥' />
         {/* <Gift /> */}
         <Cake />
       </div>
